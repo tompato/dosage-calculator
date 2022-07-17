@@ -1,6 +1,6 @@
 # Dosage Calculator
 
-This is the repository for an interview test that I was given. The details of which are provided here and then the solution can be seen in my code. A demo is available at - [Insert URL]
+This is the repository for an interview test that I was given. The details of which are provided here and then the solution can be seen in my code. A demo is available on Github - [here](https://tompato.github.io/dosage-calculator/).
 
 ## Brief
 
