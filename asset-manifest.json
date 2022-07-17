@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dosage-calculator/static/css/main.139b9be2.css",
+    "main.js": "/dosage-calculator/static/js/main.20e61c62.js",
+    "static/js/787.1a904719.chunk.js": "/dosage-calculator/static/js/787.1a904719.chunk.js",
+    "index.html": "/dosage-calculator/index.html",
+    "main.139b9be2.css.map": "/dosage-calculator/static/css/main.139b9be2.css.map",
+    "main.20e61c62.js.map": "/dosage-calculator/static/js/main.20e61c62.js.map",
+    "787.1a904719.chunk.js.map": "/dosage-calculator/static/js/787.1a904719.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.139b9be2.css",
+    "static/js/main.20e61c62.js"
+  ]
+}
