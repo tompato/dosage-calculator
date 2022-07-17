@@ -158,3 +158,8 @@ To run the application just download the repo and run:
 * `nvm use`
 * `npm install`
 * `npm start`
+
+## Todo
+
+* Probably worth making a workaround for the dosage input validating the input but because it happens onChange and because this is always a decimal, attempting to delete the decimal results in a value of 0 which automatically gets validated as invalid.
+* Add some tests so we can run some automated tests to check we are calculating the correct values.
