@@ -1,0 +1,28 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 1rem 0;
+}
+
+.calculator {
+    background: white;
+    padding: 1.5rem;
+    width: 100%;
+    max-width: 480px;
+    border-radius: 10px;
+}
+
+h1 {
+    margin: 1rem;
+    color: white;
+}
+
+.form-switch {
+    margin-bottom: 1rem;
+}
+@media screen and (min-width: 768px) {
+    .wrapper {
+        margin: 3rem 0;
+    }
+}
