@@ -120,7 +120,7 @@ Pharmacist uses the rounded twice daily dose in mL __[F]__ and compares against 
 ### Lookup Table
 
 | Twice Daily Dose (mL) | Bottle Size (mL) | Number of bottle(s) per delivery | Total days supply | Number months of supply | 
-| ----------- | ----------- |
+| :---: | :---: | :---: | :---: | :---: |
 | 0.2 | 30 | 1 | 75 | 2.5 |
 | 0.3 | 30 | 2 | 100 | 3.3 |
 | 0.4 | 30 | 2 | 75 | 2.5 |
@@ -147,11 +147,11 @@ Pharmacist uses the rounded twice daily dose in mL __[F]__ and compares against 
 
 ## Solution
 
-I use create-react-app to quickly setup a little eact app and then added bootstrap. I then setup a Calculator component and a Results component. 
+I use create-react-app to quickly setup a little React app and then added Bootstrap. I then setup a Calculator component and a Results component. 
 
 The Calculator components would handle the overall display and the user input and render the Results component.
 
-The Results component would take the values provided as props and then carry out the calculations above, calcukate the twice daily dose and then use the lookup table as a multidimensional array to lookup the other results. These would then be displayed back to the user.
+The Results component would take the values provided as props and then carry out the calculations above, calculate the twice daily dose and then use the lookup table as a multidimensional array to find the other results. These would then be displayed back to the user.
 
 To run the application just download the repo and run:
 
